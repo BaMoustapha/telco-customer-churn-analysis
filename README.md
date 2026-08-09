@@ -20,16 +20,6 @@ ABC Communications Ltd is losing customers at a rate of 26.5%, well above the he
 | Payment method | Electronic check users churn at 45.3%, nearly 3x automated payment methods |
 | Demographics | Senior citizens churn at 41.7% vs 23.6% for non-seniors |
 
-## Repository Structure
-
-```
-telco-customer-churn-analysis/
-├── data/                  Raw dataset (CSV)
-├── notebooks/              Full analysis notebook (Python/pandas/matplotlib/seaborn)
-├── reports/                 Business Understanding Report and Dataset Inspection Report
-├── presentation/          Slide deck summarizing findings for stakeholders
-└── outputs/figures/        Exported charts (PNG)
-```
 
 ## Methodology
 
@@ -41,7 +31,7 @@ telco-customer-churn-analysis/
 
 ## Tools
 
-Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+Python, pandas, NumPy, Matplotlib, Seaborn, Google colab
 
 ## Recommendations Summary
 
